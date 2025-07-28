@@ -8,7 +8,7 @@ Experiência em projetos de análise de dados, atuando em todo o processo: desde
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorSantos-CD&repo=Sport_Stats.github.io&theme=dark)](https://github.com/IgorSantos-CD/Sport_Stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorSantos-CD&repo=Sport_Stats.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
