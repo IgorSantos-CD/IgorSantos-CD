@@ -3,6 +3,14 @@
 ### Sobre o Igor
 Experiência em projetos de análise de dados, atuando em todo o processo: desde a coleta e preparação até a análise exploratória, com foco na geração de insights estratégicos. Forte domínio em visualização de dados por meio de ferramentas como Power BI, Streamlit e bibliotecas Python. Comprometido com a qualidade, consistência e, sobretudo, a integridade das informações. Conhecimento em modelagem estatística, identificação de padrões e tendências, além da criação de dashboards interativos. Valorizo a automação e a otimização de processos como suporte à tomada de decisões corporativas.
 
+### 🎓 Certificações:
+<a href=https://github.com/IgorSantos-CD/imagens_publicas/blob/41cfd4e796f66a50ad35c5ef23657f8a5fc128aa/Fundamentos%20Linguagem%20Python.png>
+  <img src="https://github.com/IgorSantos-CD/imagens_publicas/blob/41cfd4e796f66a50ad35c5ef23657f8a5fc128aa/Fundamentos%20Linguagem%20Python.png?raw=true" alt="Fundamentos Linguagens Python" width="100" height="80">
+</a>
+<a href=https://github.com/IgorSantos-CD/imagens_publicas/blob/41cfd4e796f66a50ad35c5ef23657f8a5fc128aa/Fundamentos%20Linguagem%20Python.png>
+  <img src="https://github.com/IgorSantos-CD/imagens_publicas/blob/main/Introdu%C3%A7%C3%A3o%20a%20Ciencia%20de%20Dados.png?raw=true" alt="Fundamentos Linguagens Python" width="100" height="80">
+</a>
+
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorSantos-CD&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
