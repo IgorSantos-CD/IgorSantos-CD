@@ -1,6 +1,6 @@
 ### Olá
 
-### Sobre o Pedro
+### Sobre o Igor
 Experiência em projetos de análise de dados, atuando em todo o processo: desde a coleta e preparação até a análise exploratória, com foco na geração de insights estratégicos. Forte domínio em visualização de dados por meio de ferramentas como Power BI, Streamlit e bibliotecas Python. Comprometido com a qualidade, consistência e, sobretudo, a integridade das informações. Conhecimento em modelagem estatística, identificação de padrões e tendências, além da criação de dashboards interativos. Valorizo a automação e a otimização de processos como suporte à tomada de decisões corporativas.
 
 ### Detalhes
