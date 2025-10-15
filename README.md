@@ -10,6 +10,9 @@ Experiência em projetos de análise de dados, atuando em todo o processo: desde
 <a href=https://github.com/IgorSantos-CD/imagens_publicas/blob/41cfd4e796f66a50ad35c5ef23657f8a5fc128aa/Fundamentos%20Linguagem%20Python.png>
   <img src="https://github.com/IgorSantos-CD/imagens_publicas/blob/main/Introdu%C3%A7%C3%A3o%20a%20Ciencia%20de%20Dados.png?raw=true" alt="Fundamentos Linguagens Python" width="100" height="80">
 </a>
+<a href=https://github.com/IgorSantos-CD/imagens_publicas/blob/main/Back-end%20com%20Python.jpg>
+  <img src="https://github.com/IgorSantos-CD/imagens_publicas/blob/main/Back-end%20com%20Python.jpg?raw=true" alt="Back-end com python" width="100" height="80">
+</a>
 
 ### 🛠️ Ferramentas e Tecnologias Utilizadas
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=white)
