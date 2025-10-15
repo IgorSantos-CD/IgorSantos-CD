@@ -23,10 +23,6 @@ Experiência em projetos de análise de dados, atuando em todo o processo: desde
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorSantos-CD&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorSantos-CD&repo=Sport_Stats.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 📳 Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorfonsecasantos)
 
