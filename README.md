@@ -21,7 +21,7 @@ Experiência em projetos de análise de dados, atuando em todo o processo: desde
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorSantos-CD&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorSantos-CD&show_icons=true&theme=dark)](https://github.com/IgorSantos-CD/melbourne-housing-analysis)
 
 ### Projetos
 
